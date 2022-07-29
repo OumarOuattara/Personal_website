@@ -1,0 +1,51 @@
+div {
+    font-family: Helvetica;
+    background-color: #272D33;
+    color: white;
+    font-size: 32px;
+    padding: 5px;
+ }
+ 
+ #big_div {
+    display: flex;
+    justify-content:space-around;
+ }
+
+ .items:hover{
+    color:Purple;
+  }
+ 
+  a{
+    width: 20%;
+    text-align:center;
+    text-decoration:none;
+  }
+
+  #other_div{
+    display:flex;
+    justify-content:space-between;
+    background-color:white;
+    color:black;
+  }
+
+  h3{
+    align-items:start;
+  }
+
+  #gmail{
+    justify-content:flex-end;
+    margin:10px;
+  }
+
+  img{
+    width:180px;
+  }
+
+  #div3{
+    display:flex;
+    background-color:white;
+  }
+
+  #unknown{
+    width:900px;
+  }
